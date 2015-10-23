@@ -1,3 +1,0 @@
-Download link for current:
-http://www.orientechnologies.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.0-M2.tar.gz&os=linux
-http://www.orientechnologies.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.0-M2.zip&os=multi

@@ -1,13 +1,13 @@
-Name: OrientDB
+Name: orientdb
 Source-Url: https://github.com/saljuama/openshift-orientdb.git
 Cartridge-Short-Name: ORIENTDB
 Cartridge-Version: '0.0.1'
-Compatible-Versions: ['0.0.1']
+Compatible-Versions: []
 Cartridge-Vendor: saljuama
-Display-Name: OrientDB Community 2.1.4
+Display-Name: OrientDB
 Description: "OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs."
 Version: '2.1.4'
-License: "Apache 2.0"
+License: Apache 2 License
 Vendor: Orient Technologies
 Website: http://www.orientechnologies.com
 Categories:
