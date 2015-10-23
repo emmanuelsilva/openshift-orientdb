@@ -7,7 +7,7 @@ Cartridge-Vendor: saljuama
 Display-Name: OrientDB
 Description: "OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs."
 Version: '2.1.4'
-License: Apache 2 License
+License: GNU GENERAL PUBLIC LICENSE
 Vendor: Orient Technologies
 Website: http://www.orientechnologies.com
 Categories:
