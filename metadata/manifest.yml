@@ -6,7 +6,7 @@ Compatible-Versions: []
 Cartridge-Vendor: saljuama
 Display-Name: OrientDB
 Description: "OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs."
-Version: '2.1.4'
+Version: '2.1.8'
 License: GNU GENERAL PUBLIC LICENSE
 Vendor: Orient Technologies
 Website: http://www.orientechnologies.com
@@ -28,7 +28,7 @@ Cart-Data:
   Type: cart_data
   Description: OrientDB connection URL
 Provides:
-  - orientdb-2.1.4
+  - orientdb-2.1.8
   - orientdb
 Publishes:
   publish-db-connection-info:
